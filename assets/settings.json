@@ -1,0 +1,15 @@
+{
+    "Version": "0.0.0",
+    "Title": "made with gorl",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "RenderWidth": 1920,
+    "RenderHeight": 1080,
+    "TargetFps": 144,
+    "Fullscreen": false,
+    "EnableCrtEffect": true,
+    "MouseSensitivity": 1.0,
+    "SoundVolume": 0.5,
+    "LogPath": "logs/",
+    "EnableGamepad": false
+}

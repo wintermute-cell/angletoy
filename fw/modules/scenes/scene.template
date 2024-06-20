@@ -1,0 +1,27 @@
+package scenes
+
+import (
+	"gorl/fw/modules/scenes"
+)
+
+// This checks at compile time if the interface is implemented
+var _ scenes.IScene = (*TemplateScene)(nil)
+
+// Template Scene
+type TemplateScene struct {
+    scenes.Scene // Required!
+
+	// Custom Fields
+	// Add fields here for any state that the scene should keep track of
+	// ...
+}
+
+func (scn *TemplateScene) Init() {
+	// Initialization logic for the scene
+	// ...
+}
+
+func (scn *TemplateScene) Deinit() {
+	// De-initialization logic for the scene
+    // ...
+}

@@ -1,0 +1,26 @@
+INFO: 2024/05/13 13:27:57 main.go:45: Logging initialized
+WARN: 2024/05/13 13:27:57 main.go:49: Settings loading unsuccessful, using fallback.
+INFO: 2024/05/27 13:39:51 main.go:43: Logging initialized
+WARN: 2024/05/27 13:39:51 main.go:47: Settings loading unsuccessful, using fallback.
+INFO: 2024/05/27 13:39:52 render.go:23: Creating new RenderSystem with screen resolution: {960 540}
+INFO: 2024/05/27 13:39:52 render_stage.go:41: Creating new RenderStage with target resolution: {960 540}
+INFO: 2024/05/27 13:39:52 main.go:77: Custom rendering initialized.
+INFO: 2024/05/27 13:39:52 gem.go:138: Added entity Button 1 to parent GemRoot
+INFO: 2024/05/27 13:39:52 gem.go:138: Added entity Button 2 to parent GemRoot
+DEBG: 2024/05/27 13:40:01 entity_button.go:63: Button hit! Button 1
+DEBG: 2024/05/27 13:40:04 entity_button.go:63: Button hit! Button 2
+DEBG: 2024/05/27 13:40:06 entity_button.go:63: Button hit! Button 2
+DEBG: 2024/05/27 13:40:07 entity_button.go:63: Button hit! Button 2
+DEBG: 2024/05/27 13:40:08 entity_button.go:63: Button hit! Button 2
+INFO: 2024/05/27 13:43:32 main.go:43: Logging initialized
+WARN: 2024/05/27 13:43:32 main.go:47: Settings loading unsuccessful, using fallback.
+INFO: 2024/05/27 13:43:33 render.go:23: Creating new RenderSystem with screen resolution: {960 540}
+INFO: 2024/05/27 13:43:33 render_stage.go:41: Creating new RenderStage with target resolution: {960 540}
+INFO: 2024/05/27 13:43:33 main.go:77: Custom rendering initialized.
+INFO: 2024/05/27 13:43:33 gem.go:138: Added entity Button 1 to parent GemRoot
+INFO: 2024/05/27 13:43:33 gem.go:138: Added entity Button 2 to parent GemRoot
+INFO: 2024/05/27 14:36:09 main.go:43: Logging initialized
+WARN: 2024/05/27 14:36:09 main.go:47: Settings loading unsuccessful, using fallback.
+INFO: 2024/05/27 14:36:09 render.go:23: Creating new RenderSystem with screen resolution: {960 540}
+INFO: 2024/05/27 14:36:09 render_stage.go:41: Creating new RenderStage with target resolution: {1920 1080}
+INFO: 2024/05/27 14:36:09 main.go:77: Custom rendering initialized.
